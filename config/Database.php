@@ -8,9 +8,9 @@ use PDOException;
 class Database
 {
 
-    private static string $host = '127.0.0.1';
-    private static string $db_name = 'query_builder';
-    private static string $username = 'root';
+    private static string $host = 'localhost || ip_address_local';
+    private static string $db_name = 'db_name';
+    private static string $username = 'root || username';
     private static string $password = '';
     private static string $charset = 'utf8mb4';
 
