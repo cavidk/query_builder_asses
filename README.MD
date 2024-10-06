@@ -1,16 +1,4 @@
 
-## Requirements
-
-<strong>
-   <i>
-    <p style = "color:green">
-      PHP ilə Query builder hazırlamağ.
-      Yazacağınız kod OOP yönümlü, PHP-nin son versiyalarına uyumlu olmalıdır.
-      Kodu githubda yerləşdirib linkini bizə göndərərsiniz.
-    </p>
-  </i>
-</strong>
-
 ## PHP Query Builder
 
 A lightweight, Object-Oriented Query Builder in PHP. This simple query builder helps in building SQL queries dynamically
